@@ -1,20 +1,40 @@
 STORY STRUCTURE  
 
-0. Intro 
 
-1. Characters are in a comfort zone
+0. ** Intro ** 
 
-2. But they wants smt
+  There once was a Finance Student who was very interested in coding. 
 
-3. They enter an unfamiliar situation 
+1. ** Characters are in a comfort zone **
 
-4. Adaptation 
+  He worked in PE and WM where he mostly coded in VBA and worked on Excel
 
-5. They get what they wanted 
+2. ** But they wants smt **
 
-6. Pay a haeavy price for it 
+  But he wanted to apply more advanced statistical analysis to his models 
 
-7. Return to the original situation 
+3. ** They enter an unfamiliar situation **
 
-8. Having changed
+  So he decided to study Python by himself
 
+4. ** Adaptation **
+
+  He was quick to learn but had little guidance
+
+5. ** They get what they wanted **
+
+  He learnt to perform montecarlo simulation of option prices and stock using brownian motion models
+
+6. ** Pay a haeavy price for it ** 
+
+  But he wasted a whole month to do so and his gf left him because of this
+
+7. ** Return to the original situation ** 
+
+  He now could play around with python and APIs and could do some other cool stuff like SIR models for epidemics
+
+8. ** Having changed **
+
+  So he left finance as a career and became an epidemiologist 
+
+  
